@@ -30,7 +30,7 @@
 ## 🧩 Featured Projects
 ### 🎵 [LyriMood – Lyrics-based Mood Tagging Microservice](https://github.com/kimjieun666/LyriMood)
 가사 텍스트 기반 감정 태깅 마이크로서비스  
-(Python Flask + Spring Boot 백엔드 연동)
+(Java + Spring Boot 백엔드 연동)
 
 ### 🏠 [COS – 코딩의집 (Co-s_House)](https://github.com/KernelSevenBird/Co-s_House)
 ‘오늘의집’을 벤치마킹한 인테리어 e-commerce 플랫폼  
